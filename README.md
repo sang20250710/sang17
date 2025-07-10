@@ -10,4 +10,4 @@
 
 这些平台专注于提供素人系列精品视频，涵盖欧美精品与国产高质量内容，分类详细，便于用户查找。每个视频页面提供影片时长、主演、清晰度等信息，支持高清播放，并能根据网络状况自动优化画质，确保流畅观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang17 ）</span>
